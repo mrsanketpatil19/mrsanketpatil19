@@ -8,6 +8,7 @@ Machine Learning Explorer: I'm on a continuous exploration of machine learning a
 Pythonista: Fluent in the language of data, I wield Python and its data science libraries to craft elegant and effective solutions.
 
 🔍 My Toolkit:
+
 Languages: Python, R, SQL
 
 Tools: Jupyter, Pycharm, VS Code
