@@ -9,10 +9,15 @@ Pythonista: Fluent in the language of data, I wield Python and its data science 
 
 🔍 My Toolkit:
 Languages: Python, R, SQL
+
 Tools: Jupyter, Pycharm, VS Code
+
 Libraries: Pandas, NumPy, Scikit-Learn, TensorFlow
+
 Visualization: Matplotlib, Seaborn
+
 Databases: MySQL, PostgreSQL, MongoDB
+
 Cloud: Google Cloud Platform
 
 💬 Let's Connect:
