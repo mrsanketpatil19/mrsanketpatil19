@@ -15,6 +15,13 @@ Visualization: Matplotlib, Seaborn
 Databases: MySQL, PostgreSQL, MongoDB
 Cloud: Google Cloud Platform
 
+💬 Let's Connect:
+
+LinkedIn: https://www.linkedin.com/in/sanket-patil-844281190/
+Join me on this exciting journey of turning data into wisdom! Let's explore, learn, and innovate together. 📊✨
+
+#DataScience #MachineLearning #Python #DataEnthusiast
+
 <!--
 **mrsanketpatil19/mrsanketpatil19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
